@@ -1,4 +1,4 @@
-# Stitch / 长图拼接
+# LongPic / 长图拼接
 
 A simple iOS app to combine multiple photos into a single vertical long image.
 

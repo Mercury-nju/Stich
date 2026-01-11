@@ -104,7 +104,7 @@ struct PrivacyPolicyView: View {
     private var englishContent: some View {
         Group {
             PolicySection(title: "Introduction") {
-                Text("Stitch (\"we\", \"our\", or \"us\") respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we handle your information when you use our mobile application.")
+                Text("LongPic (\"we\", \"our\", or \"us\") respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we handle your information when you use our mobile application.")
             }
             
             PolicySection(title: "Information We Collect") {
@@ -221,11 +221,11 @@ struct TermsOfServiceView: View {
     private var englishContent: some View {
         Group {
             PolicySection(title: "Acceptance of Terms") {
-                Text("By downloading, installing, or using Stitch (\"the App\"), you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use the App.")
+                Text("By downloading, installing, or using LongPic (\"the App\"), you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use the App.")
             }
             
             PolicySection(title: "Description of Service") {
-                Text("Stitch is a mobile application that allows users to combine multiple images into a single vertical long image. The service is provided \"as is\" and processes all images locally on your device.")
+                Text("LongPic is a mobile application that allows users to combine multiple images into a single vertical long image. The service is provided \"as is\" and processes all images locally on your device.")
             }
             
             PolicySection(title: "User Responsibilities") {

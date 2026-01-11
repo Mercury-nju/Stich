@@ -7,7 +7,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stitch"
+            "value" : "LongPic"
           }
         },
         "zh-Hans" : {
@@ -18,12 +18,12 @@
         }
       }
     },
-    "Stitch" : {
+    "LongPic" : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "拼接"
+            "value" : "长图拼接"
           }
         }
       }

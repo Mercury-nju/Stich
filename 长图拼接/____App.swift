@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct LongImageStitcherApp: App {
+struct LongPicApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

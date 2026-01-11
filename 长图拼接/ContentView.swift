@@ -43,7 +43,7 @@ struct ContentView: View {
                     bottomBar
                 }
             }
-            .navigationTitle("Stitch")
+            .navigationTitle("LongPic")
             .navigationBarTitleDisplayMode(.large)
             .toolbar {
                 ToolbarItem(placement: .topBarLeading) {
